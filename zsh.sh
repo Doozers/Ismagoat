@@ -1,0 +1,1 @@
+echo ~/ismagoat/ismagoat >> ~/.zshrc
